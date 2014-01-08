@@ -1,0 +1,31 @@
+{
+  "name": "timeconstants",
+  "version": "1.0.0",
+  "description": "Time constants for JavaScript, ex. hour, minute, second, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ccheever/timeconstants"
+  },
+  "keywords": [
+    "time",
+    "date",
+    "constants",
+    "hour",
+    "minute",
+    "second",
+    "week",
+    "day",
+    "month",
+    "year"
+  ],
+  "author": "Charlie Cheever <ccheever@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccheever/timeconstants/issues"
+  },
+  "homepage": "https://github.com/ccheever/timeconstants"
+}

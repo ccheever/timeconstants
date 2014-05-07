@@ -3,13 +3,21 @@ timeconstants
 
 Time constants for JavaScript, ex. hour, minute, second, etc.
 
-The following are available:
-    yearApprox (= 365.25 days
-    monthApprox (= 1/12th of a year)
-    week
-    day
-    hour
-    minute
-    second
-    ms
-    
+## Usage
+
+```js
+var constants = require('timeconstants');
+
+constants.ms;
+constants.second;
+constants.minute;
+constants.hour;
+constants.day;
+constants.week;
+
+// = 1/12th of a year
+constants.monthApprox;
+
+// = 365.25 days
+constants.yearApprox;
+```

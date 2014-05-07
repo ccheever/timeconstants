@@ -1,6 +1,6 @@
 {
   "name": "timeconstants",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Time constants for JavaScript, ex. hour, minute, second, etc.",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,10 @@
     "week",
     "day",
     "month",
-    "year"
+    "year",
+    "ms",
+    "milliseconds",
+    "sec"
   ],
   "author": "Charlie Cheever <ccheever@gmail.com>",
   "license": "MIT",

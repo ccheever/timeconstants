@@ -1,5 +1,5 @@
 // Some useful constants for working with time in ms since 1970
-c = {};
+var c = {};
 c.ms = 1;
 c.second = 1000 * c.ms;
 c.minute = c.second * 60;

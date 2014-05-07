@@ -14,8 +14,6 @@ The following are available:
     second
     ms
     
-
-Ex:
 ## Usage
 
 ```js
